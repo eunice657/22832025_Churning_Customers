@@ -1,6 +1,7 @@
 import pickle
 import streamlit as st
 import numpy as np
+import tensorflow as tf
 from keras.models import load_model
 
 model = load_model('Deployment.h5')
