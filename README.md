@@ -4,6 +4,7 @@ Python Libraries: The code relies on fundamental Python libraries like pandas, n
 Execution Environment: Google Colab serves as the preferred environment due to its compatibility with Google Drive for data access.
 
 #Journey Through the Code
+
 #Data Exploration and Preparation:
 The code commences with loading and preprocessing the customer churn dataset fetched from Google Drive.
 Initial steps involve removing unnecessary columns, handling missing data, and encoding categorical features for model readiness.
